@@ -1,0 +1,1 @@
+#hice el proyecto semaforo con tinkerd con los componentes arduino uno, placa protoboard, leds, cables y resistencias
